@@ -1,0 +1,73 @@
+{
+    "suspectsKe": [
+      {
+        "id": "1",
+        "name":"Kichimba Mkomani",
+        "role_rank": "CS Transport",
+        "phonenumber": 7182345,
+        "reasonForExpose":"Public funds embezzlement, corruption, and questionable integrity",
+        "poster": "/suspectImages/kichimurko.png"
+      },
+      {
+        "id": "2",
+        "name":"Nakumaliza Sana",
+        "role_rank": "CS Health",
+        "phonenumber": 7223456,
+        "reasonForExpose":"Incompetent, corruption, and abuse of office",
+        "poster": "/suspectImages/nakusana.png"
+      },
+      {
+        "id": "3",
+        "name":"Adele Dialo",
+        "role_rank": "CS Defence",
+        "phonenumber": 7123456,
+        "reasonForExpose":"Incompetent, tribalism & neptism in place of work, unconstitutionally deployed the military service to monitor the peaceful protestors demonstrating against bad governance, and corruption",
+        "poster": "/suspectImages/adelediano.jpg "
+      }, 
+      {
+        "id": "4",
+        "name":"Mochungu Elikana",
+        "role_rank": "CS Education",
+        "phonenumber": 7223780,
+        "reasonForExpose":"Most incompetent cs of eductaion, failed to post sjs' teachers, corrupt and lacks integrity; caught on cameras distributing teacher's calling letters instead letting TSC do their work",
+        "poster": "/suspectImages/machungu.png"
+      },
+      {
+        "id": "5",
+        "name":"Wakili Saprano",
+        "role_rank": "CS Interior",
+        "phonenumber": 1223462,
+        "reasonForExpose":"Allegedly commanded police to use excessive force against anti-government protestors leading death and casualsities of of innocent people",
+        "poster": "/suspectImages/wakili.png"
+      },
+      {
+        "id": "6",
+        "name":"Josephine Mulia",
+        "role_rank": "MP Masinga",
+        "phonenumber": 7223409,
+        "reasonForExpose":"Failed to deliver to the people of Masinga, most corrupt MP with questionable integrity.",
+        "poster": "suspectImages/mulia.jpeg"
+      },
+      {
+        "id": "7",
+        "name":"Karau Mtundu",
+        "role_rank": "Police officer",
+        "phonenumber": 7890345,
+        "reasonForExpose":"Corrupt, caught on cctv camera shooting live bullets at peaceful protestors, intimidating and assulting helpless citizens while demanding for bribe",
+        "poster": "suspectImages/killercop.png"
+      },{
+        "id": "8",
+        "name":"Kinami Isungwa",
+        "role_rank": "MP Kayuku Constituency ",
+        "phonenumber": 7890345,
+        "reasonForExpose":"Works to please his master instead of the electrolates, openely called peaceful protestors 'digital wankers', corrupt is his other name, among other inhuman dealings",
+        "poster": "/suspectImages/sungwa.png"
+      },
+      {
+        "id": "9",
+        "name":"Kipendo Kisengula",
+        "role_rank": "Businessman",
+        "phonenumber": 7117092,
+        "reasonForExpose":"FInvolved in unscrupulous business activies like gold scam, human trafficking among other unauthentic deals ",
+        "poster": "/suspectImages/kitangula.png"
+      }]}
